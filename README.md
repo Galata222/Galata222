@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Galata Waqwaya</h1>
-<h3 align="center">Software Engineer & Full Stack Developer | MSc Computer Science (UMB Slovakia) | AI/ML Enthusiast</h3>
+<h3 align="center">Software Engineer & Full Stack AI Developer | MSc Artificial Intelligence (TUKE Slovakia) </h3>
 
 ---
 
